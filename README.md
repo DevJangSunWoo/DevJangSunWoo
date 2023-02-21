@@ -33,12 +33,9 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>🎨Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="sw6yyrdn@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
 	<a href="https://cute-porpoise-06c.notion.site/6f50dddcc2914cdf8da301e4b8113da9">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
