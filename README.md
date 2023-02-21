@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=30&text=안녕하세요%20백엔드%20개발자%20장선우입니다%20😆" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=30&text=안녕하세요%20백엔드%20개발자%20장선우입니다%20🤑" />
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -47,5 +47,9 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=30&text=방문해주셔서%20감사합니다%20😆" />
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunwoo8949">
+
+</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=30&text=방문해주셔서%20감사합니다%20😌" />
 </div>
