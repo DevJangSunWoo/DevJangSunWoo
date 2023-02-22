@@ -48,8 +48,8 @@
 </div>
 
 <div align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunwoo8949">
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunwoo8949)](https://solved.ac/sunwoo8949/)
 </div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=30&text=방문해주셔서%20감사합니다%20😌" />
